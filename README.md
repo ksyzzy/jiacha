@@ -1,2 +1,5 @@
 # jiacha
-☕🍵jiacha is a Flutter application to assist you in controlling your coffee and tea intake
+<p align="center">
+  <img src="./jiacha-logo.png">
+</p>
+<h4 align="center">jiacha is a Flutter application to assist you in controlling your coffee and tea intake</h4>
